@@ -20,6 +20,6 @@ install_lua_module ( mk.auth src/mk/auth.lua )
 install_lua_module ( mk.cache src/mk/cache.lua )
 
 install_doc ( doc/ )
-install_test ( tests/ )
+install_test ( test/ )
 install_example ( samples/ )
 
